@@ -1,6 +1,6 @@
 # tempRepo
 
-This is a temporary repository.
+Example of a demo repo.
 
 ## update
  This is test branch
